@@ -33,7 +33,7 @@
             </p> -->
 
             <p class="text-[1.2vw] ml-[2.5vw] mt-[5.5vw] w-[33vw] text-justify">
-              I'm a 5th semester student at BINUS University x BCA majoring in Computer Science.
+              I'm a 5th semester student at BINUS University x PPTI BCA majoring in Computer Science.
               I love to explore and learn new things, i have a lot of hobbies.
               Besides studying, I'm /also/ active in running extra and other organizations.
             </p>
@@ -45,8 +45,27 @@
     <div id="aboutMe" class="z-0">
       <section class="pt-[6.5vw] w-full h-[50vw]">
         <p class="ml-[3vw] mt-[2vw] text-[3.3vw] z-0">About Me</p>
-        <div>
-
+        <div class="w-[40vw] h-[50vw] flex flex-col mt-[1vw] ml-[1vw]">
+          <h1 class="text-[1.8vw] pt-[2.8vw] ml-[3vw]">Education</h1>
+          <div class="flex flex-row">
+            <img class="w-[1.8vw] h-[22.5vw] mt-[2.8vw] ml-[4vw]" src="Assets/Timeline2.png" alt="">
+            <div>
+              <p class="text-[1.3vw] ml-[1.5vw] mt-[2.5vw]">TK Setia Bhakti</p>
+              <p class="text-[1.1vw] ml-[2.8vw]">Tangerang, 2007 - 2009</p>
+              <br>
+              <p class="text-[1.3vw] ml-[1.5vw] mt-[0.5vw]">SD Setia Bhakti</p>
+              <p class="text-[1.1vw] ml-[2.8vw]">Tangerang, 2009 - 2015</p>
+              <br>
+              <p class="text-[1.3vw] ml-[1.5vw] mt-[0.5vw]">SMP Setia Bhakti</p>
+              <p class="text-[1.1vw] ml-[2.8vw]">Tangerang, 2015 - 2018</p>
+              <br>
+              <p class="text-[1.3vw] ml-[1.5vw] mt-[0.5vw]">SMA Setia Bhakti</p>
+              <p class="text-[1.1vw] ml-[2.8vw]">Tangerang, 2018 - 2021</p>
+              <br>
+              <p class="text-[1.3vw] ml-[1.5vw] mt-[0.5vw]">BINUS University x PPTI BCA</p>
+              <p class="text-[1.1vw] ml-[2.8vw]">Jakarta + Sentul, 2021 - now</p>
+            </div>
+          </div>
         </div>
       </section>
     </div>
