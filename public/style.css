@@ -1,0 +1,9 @@
+* {
+    margin : 0vw;
+    padding : 0vw;
+}
+
+#aboutMe, #skills, #reachMe{
+    height: 700px;
+    width: 100%;
+}
