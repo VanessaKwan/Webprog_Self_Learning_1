@@ -7,12 +7,14 @@
   <link rel="shortcut icon" href="Assets/Logo.png" type="image/x-icon">
   @vite('resources/css/app.css')
   <link rel="stylesheet" href="style.css">
+
+  <link href="https://fonts.googleapis.com/css2?family=Fasthand&display=swap" rel="stylesheet">
 </head>
 <body>
-  <div class="flex flex-row">
-    <div id="navbar" class="dark:bg-lime-950 flex flex-row items-center w-full">
-      <a href=""><img class="mx-[0.5vw] h-[6.5vw] w-[6.5vw]"src="Assets/Logo.png" alt=""></a>
-      <p class="text-white">Vanessa's Profile</p>
+  <div class="flex flex-col bg-zinc-100">
+    <div id="navbar" class="dark:bg-lime-950 flex flex-row items-center fixed w-full mb-[10.75vw] z-50">
+      <a href="#landingPage"><img class="mx-[0.5vw] h-[6.5vw] w-[6.5vw]"src="Assets/Logo.png" alt=""></a>
+      <p class="text-white font-fasthand text-[2.1vw]">Vanessa's Profile</p>
       <div class="text-white flex flex-row text-[1.7vw] justify-items-end">
         <a href="#aboutMe" class="cursor-pointer ml-[43vw] hover:underline underline-offset-4">About Me</a>
         <a href="#skills" class="cursor-pointer ml-[7vw] hover:underline underline-offset-4">Skills</a>
@@ -20,18 +22,47 @@
       </div>
     </div>
 
-    <section id="aboutMe">
-      <h1 class="mt-[6.75vw]">test</h1>
-      <p>bro</p>
-    </section>
+    <div class="w-full h-[39vw]">
+      <section id="landingPage" class="pt-[6.5vw] relative">
+        <div class="h-[38.5vw] w-[68vw] z-10" id="bgImg">
+          <div class="h-[29vw] w-[38vw] bg-white absolute place-items-end ml-[59.7vw] mt-[10vw] z-20">
+            <p class="font-roboto text-[3.2vw] ml-[1.2vw] mt-[1.5vw]">Hi!<br>I'm Vanessa Kwandinata</p>
+            <!-- <p class="text-[1.2vw] ml-[2.8vw] mt-[4.5vw] w-[33vw]">I'm a 5th semester student at BINUS University x BCA majoring in Computer Science.
+              <br> I love to explore and learn new things, i have a lot of hobbies.
+              Besides studying, I'm /also/ active in running extra and other organizations.
+            </p> -->
 
-    <section id="skills">
-      <h1>2</h1>
-    </section>
+            <p class="text-[1.2vw] ml-[2.5vw] mt-[5.5vw] w-[33vw] text-justify">
+              I'm a 5th semester student at BINUS University x BCA majoring in Computer Science.
+              I love to explore and learn new things, i have a lot of hobbies.
+              Besides studying, I'm /also/ active in running extra and other organizations.
+            </p>
+          </div>
+        </div>
+      </section>
+    </div>
+    
+    <div id="aboutMe" class="z-0">
+      <section class="pt-[6.5vw] w-full h-[50vw]">
+        <p class="ml-[3vw] mt-[2vw] text-[3.3vw] z-0">About Me</p>
+        <div>
 
-    <section id="reachMe">
-      <h1>3</h1>
-    </section>
+        </div>
+      </section>
+    </div>
+
+    <div>
+      <section id="skills" class="pt-[6.5vw]">
+        <h1>3</h1>
+      </section>
+    </div>
+   
+    <div>
+      <section id="reachMe" class="pt-[6.5vw]">
+        <h1>4</h1>
+      </section>
+    </div>
+    
   </div>
   
   

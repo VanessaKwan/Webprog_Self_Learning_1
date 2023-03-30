@@ -7,6 +7,10 @@ module.exports = {
   ],
   theme: {
     extend: {},
+    fontFamily: {
+      'roboto': ['Roboto', 'sans-serif'],
+      'fasthand' : ["'Fasthand'", 'cursive'],
+    }
   },
   plugins: [],
 }
