@@ -146,7 +146,7 @@
       </div>
     </div>
 
-    <div class="w-full h-[45vw] bg-gradient-to-l from-[#97DEFF] to-[#AA77FF]">
+    <div class="w-full h-[45vw] bg-gradient-to-l from-[#97DEFF] to-[#AA77FF] text-white">
       <section id="skills" class="pt-[6.5vw]">
         <h1 class="text-[3.3vw] mt-[1.5vw] ml-[2vw]">Skills</h1>
         <div class="flex flex-row">
@@ -182,9 +182,27 @@
       </section>
     </div>
    
-    <div class="w-full h-[20vw] bg-gradient-to-br from-[#AA77FF]">
+    <div class="w-full h-[24vw] bg-gradient-to-br from-[#AA77FF] via-[#97DEFF] text-[1.3vw]">
       <section id="reachMe" class="pt-[6.5vw]">
-        <h1>Reach Me</h1>
+        <h1 class="text-[3.3vw] ml-[2vw] mt-[2vw]">Reach Me</h1>
+        <div class="flex flex-row mt-[3vw]">
+          <div class="flex flex-row items-center">
+          <svg class="mr-[0.5vw] ml-[4vw]" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="currentColor" d="M22 6c0-1.1-.9-2-2-2H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6m-2 0l-8 5l-8-5h16m0 12H4V8l8 5l8-5v10Z"/></svg>
+            <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJZWzBSHrXRphccBtjQBgBnhfDKMXGKnfzklVBVJjjJfDvjlmXbCzknNNzmdFSdPQKWsWqq">vanessa.kwandinata@binus.ac.id</a>
+          </div>
+          <div class="flex flex-row items-center">
+            <svg class="mr-[0.5vw] ml-[12vw]" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="currentColor" d="M22 6c0-1.1-.9-2-2-2H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6m-2 0l-8 5l-8-5h16m0 12H4V8l8 5l8-5v10Z"/></svg>
+            <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJZWzBSHrXRphccBtjQBgBnhfDKMXGKnfzklVBVJjjJfDvjlmXbCzknNNzmdFSdPQKWsWqq">vanessakwan17@gmail.com</a>
+          </div>
+          <div class="flex flex-row items-center">
+            <svg class="mr-[0.5vw] ml-[12vw]" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="currentColor" d="M12 2C6.475 2 2 6.475 2 12a9.994 9.994 0 0 0 6.838 9.488c.5.087.687-.213.687-.476c0-.237-.013-1.024-.013-1.862c-2.512.463-3.162-.612-3.362-1.175c-.113-.288-.6-1.175-1.025-1.413c-.35-.187-.85-.65-.013-.662c.788-.013 1.35.725 1.538 1.025c.9 1.512 2.338 1.087 2.912.825c.088-.65.35-1.087.638-1.337c-2.225-.25-4.55-1.113-4.55-4.938c0-1.088.387-1.987 1.025-2.688c-.1-.25-.45-1.275.1-2.65c0 0 .837-.262 2.75 1.026a9.28 9.28 0 0 1 2.5-.338c.85 0 1.7.112 2.5.337c1.912-1.3 2.75-1.024 2.75-1.024c.55 1.375.2 2.4.1 2.65c.637.7 1.025 1.587 1.025 2.687c0 3.838-2.337 4.688-4.562 4.938c.362.312.675.912.675 1.85c0 1.337-.013 2.412-.013 2.75c0 .262.188.574.688.474A10.016 10.016 0 0 0 22 12c0-5.525-4.475-10-10-10z"/></svg>
+            <a href="https://github.com/VanessaKwan">GitHub</a>
+          </div>
+          <div class="flex flex-row items-center">
+            <svg class="mr-[0.5vw] ml-[12vw]" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="currentColor" d="M7.8 2h8.4C19.4 2 22 4.6 22 7.8v8.4a5.8 5.8 0 0 1-5.8 5.8H7.8C4.6 22 2 19.4 2 16.2V7.8A5.8 5.8 0 0 1 7.8 2m-.2 2A3.6 3.6 0 0 0 4 7.6v8.8C4 18.39 5.61 20 7.6 20h8.8a3.6 3.6 0 0 0 3.6-3.6V7.6C20 5.61 18.39 4 16.4 4H7.6m9.65 1.5a1.25 1.25 0 0 1 1.25 1.25A1.25 1.25 0 0 1 17.25 8A1.25 1.25 0 0 1 16 6.75a1.25 1.25 0 0 1 1.25-1.25M12 7a5 5 0 0 1 5 5a5 5 0 0 1-5 5a5 5 0 0 1-5-5a5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3a3 3 0 0 0 3 3a3 3 0 0 0 3-3a3 3 0 0 0-3-3Z"/></svg>
+            <a href="https://www.instagram.com/vnsakwn_/">vnsakwn_</a>
+          </div>
+        </div>
       </section>
     </div>
     
