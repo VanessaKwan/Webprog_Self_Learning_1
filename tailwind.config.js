@@ -11,7 +11,10 @@ module.exports = {
       'roboto': ['Roboto', 'sans-serif'],
       'fasthand' : ["'Fasthand'", 'cursive'],
       'wibu' : ["'Fasthand'", 'cursive'],
-    }
+    },
+    // colors: {
+    //   'ungu' : '#AA77FF'
+    // },
   },
   plugins: [],
 }

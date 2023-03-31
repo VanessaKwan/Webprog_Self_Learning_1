@@ -31,11 +31,6 @@
           <div class="h-[29vw] w-[38vw] bg-white absolute place-items-end ml-[59.7vw] mt-[10vw] z-20">
             <p class="font-wibu text-[3.2vw] ml-[1.2vw] mt-[1.5vw]">こんにちは</p>
             <p class="font-roboto text-[3.2vw] ml-[1.6vw]">I'm Vanessa Kwandinata</p>
-            <!-- <p class="text-[1.2vw] ml-[2.8vw] mt-[4.5vw] w-[33vw]">I'm a 5th semester student at BINUS University x BCA majoring in Computer Science.
-              <br> I love to explore and learn new things, i have a lot of hobbies.
-              Besides studying, I'm /also/ active in running extra and other organizations.
-            </p> -->
-
             <p class="text-[1.2vw] ml-[2.5vw] mt-[5.5vw] w-[33vw] text-justify">
               I'm a 5th semester student at BINUS University x PPTI BCA majoring in Computer Science.
               I love to explore and learn new things, i have a lot of hobbies.
@@ -105,7 +100,6 @@
               </div>
             </div>
 
-
             <div class="flex flex-col">
               <div class="flex flex-row">
                 <div class="w-[27vw] h-[17vw] mt-[-4vw] text-[1.1vw] ml-[7vw] mr-[-22vw]">
@@ -152,15 +146,45 @@
       </div>
     </div>
 
-    <div>
+    <div class="w-full h-[45vw] bg-gradient-to-l from-[#97DEFF] to-[#AA77FF]">
       <section id="skills" class="pt-[6.5vw]">
-        <h1>3</h1>
+        <h1 class="text-[3.3vw] mt-[1.5vw] ml-[2vw]">Skills</h1>
+        <div class="flex flex-row">
+          <div class="text-[1.3vw] w-1/2">
+            <h1 class="text-[1.8vw] ml-[3vw]">Programming Languages</h1>
+            <p class="mt-[0.3vw] ml-[3.5vw] leading-[2.8vw]">
+              > HTML <br>
+              > CSS <br>
+              > MySQL <br>
+              > C <br>
+              > C++ <br>
+              > JavaScript <br>
+              > Python <br>
+              > PHP <br>
+              > Java <br>
+              > R <br>
+            </p>
+          </div>
+          <div class="flex justify-center w-[0.2vw] h-[45vw]">
+            <img class="w-[0.2vw] h-[30vw]" src="Assets/Line.png" alt="">
+          </div>
+          <div class="w-1/2 text-[1.3vw]">
+            <h1 class="text-[1.8vw] ml-[3vw]">Languages</h1>
+            <p class="mt-[0.3vw] ml-[3.5vw] leading-[2.8vw]">
+              > Indonesian <br>
+              > English <br>
+              > Japanese <br>
+              > Mandarin <br>
+            </p>
+          </div>
+        </div>
+
       </section>
     </div>
    
-    <div>
+    <div class="w-full h-[20vw] bg-gradient-to-br from-[#AA77FF]">
       <section id="reachMe" class="pt-[6.5vw]">
-        <h1>4</h1>
+        <h1>Reach Me</h1>
       </section>
     </div>
     
