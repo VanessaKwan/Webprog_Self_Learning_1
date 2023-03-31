@@ -47,11 +47,11 @@
     <div id="aboutMe" class="z-0">
       <div id="bgAbout" class="bg-cover bg-no-repeat z-0 w-full h-[45vw]" style="background-image: url('Assets/Background-AboutMe.png');">
         <section class="pt-[6.5vw] w-full h-[50vw]">
-          <p class="ml-[3vw] mt-[2vw] text-[3.3vw] z-0">About Me</p>
+          <p class="ml-[3vw] mt-[1vw] w-[30vw] text-[3.3vw] z-0">About Me</p>
   
           <div class="flex flex-row">
-            <div class="w-[30vw] h-[50vw] flex flex-col mt-[1vw] ml-[1.5vw]">
-              <h1 class="text-[1.8vw] mt-[2vw] ml-[3vw]">Education</h1>
+            <div class="w-[28vw] h-[50vw] flex flex-col mt-[1vw] ml-[1.5vw]">
+              <h1 class="text-[1.8vw] mt-[3vw] ml-[3vw]">Education</h1>
               <div class="flex flex-row">
                 <img class="w-[1.65vw] h-[20.63vw] mt-[1.8vw] ml-[4vw]" src="Assets/Timeline.png" alt="">
                 <div class="mt-[1vw]">
@@ -101,20 +101,27 @@
               </div>
             </div>
   
-            <div class="w-[30vw] h-[60vw] mt-[8vw] text-[1.1vw]">
+            <div class="w-[25vw] h-[17vw] mt-[8vw] text-[1.1vw]">
               <p class="text-[1.8vw] ml-[13vw]">Hobbies</p>
-              <p class="leading-[1.8vw] mt-[0.5vw] ml-[6vw] mt-[2vw]">
+              <p class="leading-[1.8vw] mt-[0.5vw] ml-[8.5vw] mt-[1vw]">
               • Read novels <br>
               • Sleep a lot, like seriously a lot<br>
               • Eat chocolates and strawberries <br>
               • Read mangas <br>
               • Watch animes <br>
               • Running <br>
+              • Painting
               </p>
             </div>
 
-            <div>
-              
+            <div class="w-[20vw] h-[17vw] text-[1.1vw] text-right ml-[-2vw] mt-[-4vw]">
+              <h1 class="text-[1.8vw]">Experiences</h1>
+              <p class="text-[1.3vw] mt-[1vw]">2016 - 2019</p>
+              <p class="text-[1.1vw]">Wan shao . A committee at my Vihara <</p>
+              <p class="text-[1.3vw] mt-[0.5vw]">2016 - 2017 and 2020 - 2021</p>
+              <p class="text-[1.1vw]">OSIS Committee <</p>
+              <p class="text-[1.3vw] mt-[0.5vw]">2020 - 2021</p>
+              <p class="text-[1.1vw]">All courses tutor for junior schooler <</p>
             </div>
   
           </div>
