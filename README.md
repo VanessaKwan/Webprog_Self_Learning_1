@@ -53,7 +53,7 @@ https://user-images.githubusercontent.com/114204591/229287272-c9c73ec1-b47a-4b25
 
 
 ## Reach Me
-Bagian ini berisi cara-cara untuk menghubungi saya. Mulai dari email, GitHub, sampai Instagram yang akan mengarahkan ke user ke halaman tertentu saat menekan gambar atau tulisannya.
+Bagian ini berisi cara-cara untuk mengenal dan menghubungi saya. Mulai dari email, GitHub, sampai Instagram yang akan mengarahkan ke user ke halaman tertentu saat menekan gambar atau tulisannya.
 ![Gambar 6](https://github.com/VanessaKwan/Webprog_Self_Learning_1/blob/main/Web%20Documentation/Reach%20Me.png)
 
 Terdapat gambar Mafu-mafu yang akan terbang ketika di-hover.   
