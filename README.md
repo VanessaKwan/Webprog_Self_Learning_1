@@ -10,7 +10,7 @@ Saya menggunakan Tailwind sebagai framework CSS-nya.
 
 # Tampilan Website
 ## Navigation Bar
-Navigation Bar membantu untuk mengarahkan kita ke section yang diinginkan pada halaman website.
+Navigation bar membantu untuk mengarahkan kita ke section yang diinginkan pada halaman website.
 
 https://user-images.githubusercontent.com/114204591/229287130-d6c42dad-bf5b-41f8-aabf-aa3b412832a6.mp4
 
