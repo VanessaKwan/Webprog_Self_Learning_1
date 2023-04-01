@@ -131,7 +131,7 @@
                 <p class="text-[1.1vw]">All courses tutor for junior schooler</p>
               </div>
             </div>
-            <img class="w-[8vw] h-[8vw] mt-[-4vw] z-10 rotate--60 hover:animate-pulse" src="Assets/Miku.png" alt="">
+            <img class="cursor-pointer w-[8vw] h-[8vw] mt-[-4vw] z-10 rotate--60 hover:animate-pulse" src="Assets/Miku.png" alt="">
             
             <div class="flex flex-col ml-[-7vw] mt-[-1.3vw] text-white">
               <h1 class="text-[2vw] mt-[4.8vw] w-[48vw] text-center font-dosis font-semibold">Achievements</h1>
@@ -173,8 +173,8 @@
             </p>
           </div>
           <div class="w-[16vw] h-[11vw] flex-row ml-[-16vw]">
-            <img class="hover:animate-bounce w-[8.5vw] h-[9vw]" src="Assets/Gin.png" alt="">
-            <img class="hover:animate-spin w-[8vw] h-[10.6vw] ml-[7vw] mt-[-8.47vw]" src="Assets/Nagi.png" alt="">
+            <img class="cursor-pointer hover:animate-bounce w-[8.5vw] h-[9vw]" src="Assets/Gin.png" alt="">
+            <img class="cursor-pointer hover:animate-spin w-[8vw] h-[10.6vw] ml-[7vw] mt-[-8.47vw]" src="Assets/Nagi.png" alt="">
           </div>
           <div class="flex justify-center w-[0.2vw] h-[48vw] mt-[2vw]">
             <img class="w-[0.2vw] h-[30vw]" src="Assets/Line.png" alt="">
@@ -188,8 +188,8 @@
               > Mandarin <br>
             </p>
             <div class="flex flex-row w-[26vw] h-[18vw] ml-[2vw]">
-              <img class="w-[16vw] h-[16vw] z-10" src="Assets/tanabata.png" alt="">
-              <img class="w-[3.5vw] h-[4.2vw] mt-[12vw] z-20 ml-[-12vw] hover:scale-[3]" src="Assets/Asuna.png" alt="">
+              <img class="cursor-pointer w-[16vw] h-[16vw] z-10" src="Assets/tanabata.png" alt="">
+              <img class="cursor-pointer w-[3.5vw] h-[4.2vw] mt-[12vw] z-20 ml-[-12vw] hover:scale-[3]" src="Assets/Asuna.png" alt="">
             </div>
           </div>
         </div>
@@ -219,7 +219,7 @@
             <a href="https://www.instagram.com/vnsakwn_/">vnsakwn_</a>
           </div>
         </div>
-        <img id="mafu" class="w-[9vw] h-[9vw] mt-[-17vw] ml-[15vw] hover:-translate-y-1/2 hover:transition duration-1000" src="Assets/Mafu-2.png" alt="">
+        <img class="cursor-pointer w-[9vw] h-[9vw] mt-[-17vw] ml-[15vw] hover:-translate-y-1/2 hover:transition duration-1000" src="Assets/Mafu-2.png" alt="">
       </section>
     </div>
     
