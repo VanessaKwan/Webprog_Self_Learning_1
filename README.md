@@ -5,7 +5,7 @@ PPTI 12
 Web Programming  
 
 # Instalasi framework CSS di PC
-Saya menggunakan Tailwind sebagai framework CSS-nya.
+Saya menggunakan Tailwind sebagai framework CSS-nya.  
 ![Gambar 1](https://github.com/VanessaKwan/Webprog_Self_Learning_1/blob/main/Web%20Documentation/CSS%20Framework%20Installation.png)
 
 # Tampilan Website
