@@ -1,5 +1,5 @@
 <!doctype html>
-<html>
+<html class="scroll-smooth">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,6 +10,8 @@
 
   <link href="https://fonts.googleapis.com/css2?family=Fasthand&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Fasthand&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Just+Another+Hand&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Dosis&display=swap" rel="stylesheet">
 
 </head>
 <body>
@@ -18,9 +20,9 @@
       <a href="#landingPage"><img class="mx-[0.5vw] h-[6.5vw] w-[6.5vw]"src="Assets/Logo.png" alt=""></a>
       <p class="text-white font-fasthand text-[2.1vw]">Vanessa's Profile</p>
       <div class="text-white flex flex-row text-[1.7vw] justify-items-end">
-        <a href="#aboutMe" class="cursor-pointer ml-[43vw] hover:underline underline-offset-4">About Me</a>
-        <a href="#skills" class="cursor-pointer ml-[7vw] hover:underline underline-offset-4">Skills</a>
-        <a href="#reachMe" class="cursor-pointer ml-[7vw] hover:underline underline-offset-4">Reach Me</a>
+        <a href="#aboutMe" class="cursor-pointer ml-[43vw] hover:underline underline-offset-4 hover:scale-125">About Me</a>
+        <a href="#skills" class="cursor-pointer ml-[7vw] hover:underline underline-offset-4 hover:scale-125">Skills</a>
+        <a href="#reachMe" class="cursor-pointer ml-[7vw] hover:underline underline-offset-4 hover:scale-125">Reach Me</a>
       </div>
     </div>
 
@@ -28,30 +30,33 @@
       <section id="landingPage" class="pt-[6.5vw] relative">
         <div class="bg-cover h-[38.5vw] w-[68vw]" style="background-image: url('Assets/Landing-Page.jpg');">
           <div class="bg-no-repeat z-10"></div>
-          <div class="h-[29vw] w-[38vw] bg-white absolute place-items-end ml-[59.7vw] mt-[10vw] z-20">
-            <p class="font-wibu text-[3.2vw] ml-[1.2vw] mt-[1.5vw]">こんにちは</p>
-            <p class="font-roboto text-[3.2vw] ml-[1.6vw]">I'm Vanessa Kwandinata</p>
-            <p class="text-[1.2vw] ml-[2.5vw] mt-[5.5vw] w-[33vw] text-justify">
-              I'm a 5th semester student at BINUS University x PPTI BCA majoring in Computer Science.
-              I love to explore and learn new things, i have a lot of hobbies.
-              Besides studying, I also active in running extra and other organizations.
-            </p>
+            <div class="h-[2vw]"></div>
+            <img class=" w-[8vw] h-[8vw] ml-[90vw] hover:animate-bounce duration-100 cursor-pointer" src="Assets/Mafu.png" alt="">
+            <div class="h-[29vw] w-[38vw] bg-white absolute place-items-end ml-[59.7vw] z-20">
+              <p class="font-wibu text-[3.5vw] ml-[1.2vw] mt-[1.5vw]">こんにちは</p>
+              <p class="font-roboto text-[3.2vw] ml-[1.6vw]">I'm Vanessa Kwandinata</p>
+              <p class="text-[1.2vw] ml-[2.5vw] mt-[5.5vw] w-[33vw] text-justify">
+                I'm a 5th semester student at BINUS University x PPTI BCA majoring in Computer Science.
+                I love to explore and learn new things, i have a lot of hobbies.
+                Besides studying, I also active in running extra and other organizations.
+              </p>
+            </div>
           </div>
       </section>
     </div>
     
     <div id="aboutMe" class="z-0">
-      <div id="bgAbout" class="bg-cover bg-no-repeat z-0 w-full h-[45vw]" style="background-image: url('Assets/Background-AboutMe.png');">
+      <div id="bgAbout" class="bg-cover  bg-no-repeat z-0 w-full h-[45vw]" style="background-image: url('Assets/Background-AboutMe.png');">
         <section class="pt-[6.5vw] w-full h-[50vw]">
-          <p class="ml-[3vw] mt-[1vw] w-[30vw] text-[3.3vw] z-0">About Me</p>
+          <p class="ml-[5vw] w-[30vw] text-[6vw] z-0 font-another">About Me</p>
   
           <div class="flex flex-row">
             <div class="flex flex-row">
-              <div class="w-[33vw] h-[50vw] flex flex-col mt-[1vw] ml-[1.5vw] text-indigo-800">
-                <h1 class="text-[1.8vw] mt-[3vw] ml-[3vw]">Education</h1>
+              <div class="w-[33vw] h-[50vw] flex flex-col ml-[1.5vw] text-indigo-800">
+                <h1 class="text-[2vw] mt-[3vw] ml-[3vw] font-dosis font-semibold">Education</h1>
                 <div class="flex flex-row">
-                  <img class="w-[1.65vw] h-[20.63vw] mt-[1.8vw] ml-[4vw]" src="Assets/Timeline.png" alt="">
-                  <div class="mt-[1vw]">
+                  <img class="w-[1.65vw] h-[20.63vw] mt-[1.6vw] ml-[4vw]" src="Assets/Timeline.png" alt="">
+                  <div class="mt-[0.8vw]">
                     <p class="text-[1.3vw] ml-[1vw] mt-[0.6vw]">TK Setia Bhakti</p>
                     <p class="text-[1.1vw] ml-[2.8vw]">Tangerang, 2007 - 2009</p>
                     <p class="text-[1.3vw] ml-[1vw] mt-[0.4vw]">SD Setia Bhakti</p>
@@ -66,9 +71,9 @@
                 </div>
               </div>
     
-              <div class="w-[23vw] h-[28vw] text-[1.1vw] mt-[7vw] ml-[-3vw] text-indigo-800">
-                <h1 class="text-[1.8vw]">Mini Details</h1>
-                <div class="mt-[1.1vw] flex flex-row items-center">
+              <div class="w-[23vw] h-[28vw] text-[1.1vw] mt-[6vw] ml-[-3vw] text-indigo-800">
+                <h1 class="text-[2vw] font-dosis font-semibold">Mini Details</h1>
+                <div class="mt-[0.8vw] flex flex-row items-center">
                   <svg class="mr-[0.5vw]" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="currentColor" d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5a2.5 2.5 0 0 1 0-5a2.5 2.5 0 0 1 0 5z"/></svg>
                   <p>Born in Jakarta </p>
                 </div>
@@ -100,34 +105,36 @@
               </div>
             </div>
 
-            <div class="flex flex-col">
+            
+            <div class="flex flex-col z-0">
               <div class="flex flex-row">
-                <div class="w-[27vw] h-[17vw] mt-[-4vw] text-[1.1vw] ml-[7vw] mr-[-22vw]">
-                  <p class="text-[1.8vw]">Hobbies</p>
-                  <p class="leading-[1.8vw] mt-[0.5vw] mt-[1vw]">
-                  • Read novels <br>
-                  • Sleep a lot, like seriously a lot<br>
-                  • Eat chocolates and strawberries <br>
-                  • Read mangas <br>
+                <div class="w-[27vw] h-[17vw] mt-[-6vw] text-[1.1vw] ml-[7vw] mr-[-22vw]">
+                  <p class="text-[2vw] font-dosis font-semibold">Hobbies</p>
+                  <p class="leading-[1.8vw] mt-[0.3vw] mt-[1vw]">
+                    • Read novels <br>
+                    • Sleep a lot, like seriously a lot<br>
+                    • Eat chocolates and strawberries <br>
+                    • Read mangas <br>
                   • Watch animes <br>
                   • Running <br>
                   • Painting
-                  </p>
-                </div>
-  
-                <div class="w-[21vw] h-[17vw] text-[1.1vw] text-right ml-[9vw] mt-[-4vw]">
-                  <h1 class="text-[1.8vw]">Experiences</h1>
-                  <p class="text-[1.3vw] mt-[1vw]">2016 - 2019</p>
-                  <p class="text-[1.1vw]">Wan shao . A committee at my Vihara</p>
-                  <p class="text-[1.3vw] mt-[0vw]">2016 - 2017 and 2020 - 2021</p>
-                  <p class="text-[1.1vw]">OSIS Committee</p>
-                  <p class="text-[1.3vw] mt-[0vw]">2020 - 2021</p>
-                  <p class="text-[1.1vw]">All courses tutor for junior schooler</p>
-                </div>
+                </p>
               </div>
-                        
-              <div class="flex flex-col ml-[-7vw] mt-[-1.3vw] text-white">
-                <h1 class="text-[1.8vw] mt-[8.8vw] w-[48vw] text-center">Achievements</h1>
+              
+              <div class="w-[21vw] h-[17vw] text-[1.1vw] text-right ml-[9vw] mt-[-6vw]">
+                <h1 class="text-[2vw] font-dosis font-semibold">Experiences</h1>
+                <p class="text-[1.2vw] font-semibold mt-[0.8vw]">2016 - 2019</p>
+                <p class="text-[1.1vw]">Wan shao • A committee at my Vihara</p>
+                <p class="text-[1.2vw] font-semibold mt-[0.5vw]">2016 - 2017 and 2020 - 2021</p>
+                <p class="text-[1.1vw]">OSIS Committee</p>
+                <p class="text-[1.2vw] font-semibold mt-[0.5vw]">2020 - 2021</p>
+                <p class="text-[1.1vw]">All courses tutor for junior schooler</p>
+              </div>
+            </div>
+            <img class="w-[8vw] h-[8vw] mt-[-4vw] z-10 rotate--60 hover:animate-pulse" src="Assets/Miku.png" alt="">
+            
+            <div class="flex flex-col ml-[-7vw] mt-[-1.3vw] text-white">
+              <h1 class="text-[2vw] mt-[4.8vw] w-[48vw] text-center font-dosis font-semibold">Achievements</h1>
                 <div class="flex flex-row mt-[2vw]">
                   <div class="w-[24vw] h-[5vw] text-[1.1vw] text-white">
                     <p class="text-center">• 3rd place - women's 200m PORKOT [2019] •</p>
@@ -146,12 +153,12 @@
       </div>
     </div>
 
-    <div class="w-full h-[45vw] bg-gradient-to-l from-[#97DEFF] to-[#AA77FF] text-white">
+    <div class="w-full h-[48vw] bg-gradient-to-l from-[#97DEFF] to-[#AA77FF] text-white">
       <section id="skills" class="pt-[6.5vw]">
-        <h1 class="text-[3.3vw] mt-[1.5vw] ml-[2vw]">Skills</h1>
+        <h1 class="text-[6vw] mt-[1vw] ml-[2vw] font-another">Skills</h1>
         <div class="flex flex-row">
           <div class="text-[1.3vw] w-1/2">
-            <h1 class="text-[1.8vw] ml-[3vw]">Programming Languages</h1>
+            <h1 class="text-[2vw] ml-[3vw] font-dosis font-semibold">Programming Languages</h1>
             <p class="mt-[0.3vw] ml-[3.5vw] leading-[2.8vw]">
               > HTML <br>
               > CSS <br>
@@ -165,26 +172,35 @@
               > R <br>
             </p>
           </div>
-          <div class="flex justify-center w-[0.2vw] h-[45vw]">
+          <div class="w-[16vw] h-[11vw] flex-row ml-[-16vw]">
+            <img class="hover:animate-bounce w-[8.5vw] h-[9vw]" src="Assets/Gin.png" alt="">
+            <img class="hover:animate-spin w-[8vw] h-[10.6vw] ml-[7vw] mt-[-8.47vw]" src="Assets/Nagi.png" alt="">
+          </div>
+          <div class="flex justify-center w-[0.2vw] h-[48vw] mt-[2vw]">
             <img class="w-[0.2vw] h-[30vw]" src="Assets/Line.png" alt="">
           </div>
           <div class="w-1/2 text-[1.3vw]">
-            <h1 class="text-[1.8vw] ml-[3vw]">Languages</h1>
+            <h1 class="text-[2vw] ml-[3vw] font-dosis font-semibold">Languages</h1>
             <p class="mt-[0.3vw] ml-[3.5vw] leading-[2.8vw]">
               > Indonesian <br>
               > English <br>
               > Japanese <br>
               > Mandarin <br>
             </p>
+            <div class="flex flex-row w-[26vw] h-[18vw] ml-[2vw]">
+              <img class="w-[16vw] h-[16vw] z-10" src="Assets/tanabata.png" alt="">
+              <img class="w-[3.5vw] h-[4.2vw] mt-[12vw] z-20 ml-[-12vw] hover:scale-[3]" src="Assets/Asuna.png" alt="">
+            </div>
           </div>
         </div>
-
+        
       </section>
     </div>
-   
-    <div class="w-full h-[24vw] bg-gradient-to-br from-[#AA77FF] via-[#97DEFF] text-[1.3vw]">
+    
+
+    <div class="w-full h-[28vw] bg-gradient-to-br from-[#AA77FF] via-[#97DEFF] text-[1.3vw]">
       <section id="reachMe" class="pt-[6.5vw]">
-        <h1 class="text-[3.3vw] ml-[2vw] mt-[2vw]">Reach Me</h1>
+        <h1 class="text-[6vw] ml-[2vw] mt-[2vw] font-another">Reach Me</h1>
         <div class="flex flex-row mt-[3vw]">
           <div class="flex flex-row items-center">
           <svg class="mr-[0.5vw] ml-[4vw]" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="currentColor" d="M22 6c0-1.1-.9-2-2-2H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6m-2 0l-8 5l-8-5h16m0 12H4V8l8 5l8-5v10Z"/></svg>
@@ -203,6 +219,7 @@
             <a href="https://www.instagram.com/vnsakwn_/">vnsakwn_</a>
           </div>
         </div>
+        <img id="mafu" class="w-[9vw] h-[9vw] mt-[-17vw] ml-[15vw] hover:-translate-y-1/2 hover:transition duration-1000" src="Assets/Mafu-2.png" alt="">
       </section>
     </div>
     

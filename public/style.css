@@ -3,24 +3,7 @@
     padding : 0vw;
 }
 
-html{
-    scroll-behavior: smooth;
-}
-
-/* #bgImg{
-    background-image: url(Assets/Landing-Page.jpg);
-    background-size: 68vw 38.5vw;
-    z-index: 10;
-} */
-
 #bgAbout{
-    /* background-image: url(Assets/Background-AboutMe.png);
-    background-size: 100% 45vw;
-    background-repeat: no-repeat; */
     z-index: 0;
     background-position-y: 6vw;
 }
-
-/* *{
-    border: 1px solid red;
-} */
