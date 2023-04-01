@@ -1,66 +1,68 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# Identitas
+Vanessa Kwandinata  
+2502041331  
+PPTI 12  
+Web Programming  
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+# Instalasi framework CSS di PC
+Saya menggunakan Tailwind sebagai framework CSS-nya.  
 
-## About Laravel
+![Gambar 1](https://github.com/VanessaKwan/Webprog_Self_Learning_1/blob/main/Web%20Documentation/CSS%20Framework%20Installation.png)
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+# Tampilan Website
+## Navigation Bar
+Navigation bar membantu untuk mengarahkan kita ke section yang diinginkan pada halaman website.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+https://user-images.githubusercontent.com/114204591/229287130-d6c42dad-bf5b-41f8-aabf-aa3b412832a6.mp4
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## Learning Laravel
+## Landing Page
+Pada bagian ini, saya memperkenalkan diri saya secara singkat.
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+![Gambar 2](https://github.com/VanessaKwan/Webprog_Self_Learning_1/blob/main/Web%20Documentation/Landing%20Page.png)
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+Terdapat gambar Mafu-mafu yang dapat melompat jika di-hover.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+https://user-images.githubusercontent.com/114204591/229286377-347f938f-5500-4918-9a17-0e99a16c6cef.mp4
 
-## Laravel Sponsors
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+## About Me
+Pada bagian ini, terdapat informasi mengenai :  
+- Waktu dan tempat saya menempuh pendidikan
+- Detail kecil mengenai kehidupan saya
+- Hobi saya
+- Pengalaman berorganisasi dan bekerja yang pernah saya lakukan
+- Prestasi dan penghargaan yang saya dapatkan pada tingkat sekolah dan kota
 
-### Premium Partners
+![Gambar 3](https://github.com/VanessaKwan/Webprog_Self_Learning_1/blob/main/Web%20Documentation/About%20Me.png)
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
+Terdapat gambar Hatsune Miku yang sedang mengantuk dan akan sedikit menghilang ketika di-hover.  
 
-## Contributing
+https://user-images.githubusercontent.com/114204591/229287264-9b89ae1d-890b-45d3-95ff-cdcbddfbe81e.mp4
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
 
-## Code of Conduct
+## Skills
+Bagian ini berisi bahasa pemrograman yang sudah pernah saya pelajari sebelumnya dan bahasa-bahasa yang saya kuasai dengan cukup baik.
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+![Gambar 4](https://github.com/VanessaKwan/Webprog_Self_Learning_1/blob/main/Web%20Documentation/Skills.png)
+![Gambar 5](https://github.com/VanessaKwan/Webprog_Self_Learning_1/blob/main/Web%20Documentation/Skills%20-%20Reach%20Me.png)
 
-## Security Vulnerabilities
+Terdapat gambar Gin yang melompat, Nagi yang akan berputar, serta Asuna yang sedang memakan roti di bawah pohon bambu di festival Tanabata dan akan membersar ketika di-hover.  
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+https://user-images.githubusercontent.com/114204591/229287272-c9c73ec1-b47a-4b25-9983-63412bea44fb.mp4
 
-## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+## Reach Me
+Bagian ini berisi cara-cara untuk mengenal dan menghubungi saya. Mulai dari email, GitHub, sampai Instagram yang akan mengarahkan ke user ke halaman tertentu saat menekan gambar atau tulisannya.
+![Gambar 6](https://github.com/VanessaKwan/Webprog_Self_Learning_1/blob/main/Web%20Documentation/Reach%20Me.png)
+
+Terdapat gambar Mafu-mafu yang akan terbang ketika di-hover.   
+
+https://user-images.githubusercontent.com/114204591/229287282-0b0f1ae8-a0e2-43d8-b058-737c0411c923.mp4
+
+
+## Tampilan Website secara menyeluruh
+
+https://user-images.githubusercontent.com/114204591/229287487-c8a434d9-2b22-485f-9a01-b8236f6c7c68.mp4
+
+
